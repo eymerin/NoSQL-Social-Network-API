@@ -1,0 +1,26 @@
+[
+  {
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "thoughts": [],
+    "friends": []
+  },
+  {
+    "username": "jane_smith",
+    "email": "jane.smith@example.com",
+    "thoughts": [],
+    "friends": []
+  },
+  {
+    "username": "bob_jackson",
+    "email": "bob.jackson@example.com",
+    "thoughts": [],
+    "friends": []
+  },
+  {
+    "username": "alice_johnson",
+    "email": "alice.johnson@example.com",
+    "thoughts": [],
+    "friends": []
+  }
+]

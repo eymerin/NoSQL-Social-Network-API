@@ -1,0 +1,35 @@
+[
+    {
+      "thoughtText": "What a beautiful day!",
+      "username": "john_doe",
+      "reactions": [
+        {"reactionBody": "👍", "username": "jane_smith"},
+        {"reactionBody": "❤️", "username": "bob_jackson"}
+      ]
+    },
+    {
+      "thoughtText": "Just finished a great book!",
+      "username": "jane_smith",
+      "reactions": [
+        {"reactionBody": "📚", "username": "john_doe"},
+        {"reactionBody": "😊", "username": "bob_jackson"}
+      ]
+    },
+    {
+      "thoughtText": "Coding is so much fun!",
+      "username": "bob_jackson",
+      "reactions": [
+        {"reactionBody": "💻", "username": "john_doe"},
+        {"reactionBody": "🚀", "username": "jane_smith"}
+      ]
+    },
+    {
+      "thoughtText": "Exploring new places...",
+      "username": "alice_johnson",
+      "reactions": [
+        {"reactionBody": "🌍", "username": "john_doe"},
+        {"reactionBody": "📸", "username": "jane_smith"}
+      ]
+    }
+  ]
+  
