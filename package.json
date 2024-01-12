@@ -19,7 +19,9 @@
   "homepage": "https://github.com/eymerin/NoSQL-Social-Network-API#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^8.0.4"
+    "mongod": "^2.0.0",
+    "mongoose": "^8.0.4",
+    "mongosh": "^2.1.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"

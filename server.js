@@ -20,6 +20,3 @@ db.once('open', () => {
         console.log(`API server running on port ${PORT}!`);
     });
 });
-
-// logs mongo queries being executed!
-mongoose.set('debug', true);
