@@ -22,7 +22,7 @@
 
   ## Usage
   --------
-  ![](<iframe src="https://drive.google.com/file/d/1STQBdS5EJaM3AfhNoZBpwR-S3IlCGTQQ/preview" width="640" height="480"></iframe>)
+  ![](https://drive.google.com/file/d/1STQBdS5EJaM3AfhNoZBpwR-S3IlCGTQQ/preview)
 
   (Optional: Video provided to demostrate how to run the program.)
 
